@@ -1,0 +1,6 @@
+c:\users\ndukwe ikedieze\documents\visual studio 2015\Projects\ConsoleApplication8 Loops in csharp\ConsoleApplication8 Loops in csharp\bin\Debug\ConsoleApplication8 Loops in csharp.exe.config
+c:\users\ndukwe ikedieze\documents\visual studio 2015\Projects\ConsoleApplication8 Loops in csharp\ConsoleApplication8 Loops in csharp\bin\Debug\ConsoleApplication8 Loops in csharp.exe
+c:\users\ndukwe ikedieze\documents\visual studio 2015\Projects\ConsoleApplication8 Loops in csharp\ConsoleApplication8 Loops in csharp\bin\Debug\ConsoleApplication8 Loops in csharp.pdb
+c:\users\ndukwe ikedieze\documents\visual studio 2015\Projects\ConsoleApplication8 Loops in csharp\ConsoleApplication8 Loops in csharp\obj\Debug\ConsoleApplication8 Loops in csharp.csprojResolveAssemblyReference.cache
+c:\users\ndukwe ikedieze\documents\visual studio 2015\Projects\ConsoleApplication8 Loops in csharp\ConsoleApplication8 Loops in csharp\obj\Debug\ConsoleApplication8 Loops in csharp.exe
+c:\users\ndukwe ikedieze\documents\visual studio 2015\Projects\ConsoleApplication8 Loops in csharp\ConsoleApplication8 Loops in csharp\obj\Debug\ConsoleApplication8 Loops in csharp.pdb
